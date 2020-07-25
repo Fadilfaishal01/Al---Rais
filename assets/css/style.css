@@ -966,3 +966,9 @@ span {
 .container > .title > video {
   margin-top: 10px;
 }
+
+.media > img {
+  border-radius: 50%;
+  width: 8%;
+  height: 90px;
+}
